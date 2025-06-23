@@ -8,7 +8,7 @@
 Introductory Course on BioImage Analysis for Microscopy - GloBIAS & CNR Naples 2025
 
 
-7-10 July 2025 <br>
+7-11 July 2025 <br>
 Consiglio Nazionale delle Ricerche (CNR)
 Istituto degli endotipi, in oncologia, metabolismo e immunologia (IEOMI)
 "G. SALVATORE"
@@ -20,7 +20,7 @@ Domenico Russo, Simone Di Paola, Seetharaman Parashuraman (CNR, Naples)
 <table>
 <td width=25%><img width="25%" src="./docs/GloBIAS_logo.png" alt="GloBIAS Logo", align=left> 
 <p>
-This training is developed and delivered by [Rocco D’Antuono](https://github.com/RoccoDAnt) (The Francis Crick Institute, London, UK), [Ana Stojiljkovic](https://github.com/StojiljkovicVetAna) (University of Bern, Switzerland), [Sebastian Gonzalez Tirado](https://github.com/sebgoti) (Heidelberg University, Germany), [Daniel Waiger](https://github.com/Daniel-Waiger) (Hebrew University of Jerusalem, Rehovot, Israel). </p>
+This training is developed and delivered by <a href=https://github.com/RoccoDAnt>Rocco D’Antuono</a> (The Francis Crick Institute, London, UK), <a href=https://github.com/StojiljkovicVetAna>Ana Stojiljkovic</a> (University of Bern, Switzerland), <a href=https://github.com/sebgoti>Sebastian Gonzalez Tirado</a> (Heidelberg University, Germany), <a href=https://github.com/Daniel-Waiger>Daniel Waiger</a> (Hebrew University of Jerusalem, Rehovot, Israel). </p>
 </table>
 <br>
 
@@ -109,6 +109,6 @@ Thursday 10th July 2024
 |18:00| Dinner|
 |---|---|
 
-### Day 4
+### Day 5
 Friday 11th July 2024
 #### Introduction to ZEISS arivis Advanced Image Analysis
