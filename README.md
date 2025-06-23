@@ -21,7 +21,7 @@ Domenico Russo, Simone Di Paola, Seetharaman Parashuraman (CNR, Naples)
 <td width=25%><img width="25%" src="./docs/GloBIAS_logo.png" alt="GloBIAS Logo", align=left> 
 <p>
 This training is developed and delivered by [Rocco D’Antuono](https://github.com/RoccoDAnt) (The Francis Crick Institute, London, UK), [Ana Stojiljkovic](https://github.com/StojiljkovicVetAna) (University of Bern, Switzerland), [Sebastian Gonzalez Tirado](https://github.com/sebgoti) (Heidelberg University, Germany), [Daniel Waiger](https://github.com/Daniel-Waiger) (Hebrew University of Jerusalem, Rehovot, Israel). </p>
-<table>
+</table>
 <br>
 
 Learning outcomes:
@@ -82,8 +82,7 @@ Wednesday 9th July 2024
 |11:00-12:00| CellProfiler practical session - Ana Stojiljkovic and Rocco D'Antuono|
 |12:00-13:00| Lunch |
 |13:00-14:00| CellProfiler Analyst to visualise and plot image analysis results - Ana Stojiljkovic and Sebastian Gonzalez Tirado|
-|14:00-15:00| 
-CellProfiler Analyst hands-on session - Sebastian Gonzalez Tirado and Daniel Waiger|
+|14:00-15:00| CellProfiler Analyst hands-on session - Sebastian Gonzalez Tirado and Daniel Waiger|
 |15:00-15:30| Coffee break|
 |15:30-17:00| Project working groups with own data or test data - Rocco D'Antuono and Ana Stojilkovic|
 |17:00-18:00| Progress report on project work - How to do better? - All the trainers|
