@@ -5,20 +5,20 @@
 </p>
 
 # Fluorescence image analysis course
-Introductory Course on BioImage Analysis for Microscopy - GloBIAS & CNR Naples 2025
+<b>Introductory Course on BioImage Analysis for Microscopy - GloBIAS & CNR Naples 2025</b>
 
 
-7-11 July 2025 <br>
+<b>7-11 July 2025 </b><br>
 Consiglio Nazionale delle Ricerche (CNR)
 Istituto degli endotipi, in oncologia, metabolismo e immunologia (IEOMI)
 "G. SALVATORE"
 Naples (Italy)
 
 Local organizers:
-Domenico Russo, Simone Di Paola, Seetharaman Parashuraman (CNR, Naples)
-
+<b>Domenico Russo, Simone Di Paola, Seetharaman Parashuraman (CNR, Naples)
+</b>
 <table>
-<td width=25%><img width="25%" src="./docs/GloBIAS_logo.png" alt="GloBIAS Logo", align=left> 
+<td width=25%> <p align="left"><img width="25%" src="./docs/GloBIAS_logo.png" alt="GloBIAS Logo", align=left>,</p>
 <p>
 This training is developed and delivered by <a href=https://github.com/RoccoDAnt>Rocco D’Antuono</a> (The Francis Crick Institute, London, UK), <a href=https://github.com/StojiljkovicVetAna>Ana Stojiljkovic</a> (University of Bern, Switzerland), <a href=https://github.com/sebgoti>Sebastian Gonzalez Tirado</a> (Heidelberg University, Germany), <a href=https://github.com/Daniel-Waiger>Daniel Waiger</a> (Hebrew University of Jerusalem, Rehovot, Israel). </p>
 </table>
@@ -93,6 +93,7 @@ Wednesday 9th July 2024
 ### Day 4
 Thursday 10th July 2024
 #### 3D Segmentation and figure preparation
+
 |<b>Time</b>| <b>Topic</b>|
 |---| ---|
 |09:00-09:30| Progress check on project work and trainees expectations|
