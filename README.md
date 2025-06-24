@@ -17,11 +17,11 @@ Naples (Italy)
 Local organizers:
 <b>Domenico Russo, Simone Di Paola, Seetharaman Parashuraman (CNR, Naples)
 </b>
-<table>
-<td width=100%> <p align="left"><img width="25%" src="./docs/GloBIAS_logo.png" alt="GloBIAS Logo", align=left></p>
-<p>
-This training is developed and delivered by <a href="https://github.com/RoccoDAnt">Rocco D’Antuono</a> (The Francis Crick Institute, London, UK), <a href="https://github.com/StojiljkovicVetAna">Ana Stojiljkovic</a> (University of Bern, Switzerland), <a href="https://github.com/sebgoti">Sebastian Gonzalez Tirado</a> (Heidelberg University, Germany), <a href="https://github.com/Daniel-Waiger">Daniel Waiger</a> (Hebrew University of Jerusalem, Rehovot, Israel). </p></td>
-</table>
+
+<p><img width=100; src="./docs/GloBIAS_logo.png" alt="GloBIAS Logo", align=left></p>
+<br>
+
+<p> This training is developed and delivered by <a href="https://github.com/RoccoDAnt">Rocco D’Antuono</a> (The Francis Crick Institute, London, UK), <a href="https://github.com/StojiljkovicVetAna">Ana Stojiljkovic</a> (University of Bern, Switzerland), <a href="https://github.com/sebgoti">Sebastian Gonzalez Tirado</a> (Heidelberg University, Germany), <a href="https://github.com/Daniel-Waiger">Daniel Waiger</a> (Hebrew University of Jerusalem, Rehovot, Israel). </p>
 <br>
 
 Learning outcomes:
