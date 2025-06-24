@@ -19,12 +19,11 @@ Local organizers:
 </b>
 <br>
 
-|-- |-- |
-|![](./docs/GloBIAS_logo.png) | This training is developed and delivered by <a href="https://github.com/RoccoDAnt">Rocco D’Antuono</a> (The Francis Crick Institute, London, UK), <a href="https://github.com/StojiljkovicVetAna">Ana Stojiljkovic</a> (University of Bern, Switzerland), <a href="https://github.com/sebgoti">Sebastian Gonzalez Tirado</a> (Heidelberg University, Germany), <a href="https://github.com/Daniel-Waiger">Daniel Waiger</a> (Hebrew University of Jerusalem, Rehovot, Israel).|
+ This training is developed and delivered by <a href="https://github.com/RoccoDAnt">Rocco D’Antuono</a> (The Francis Crick Institute, London, UK), <a href="https://github.com/StojiljkovicVetAna">Ana Stojiljkovic</a> (University of Bern, Switzerland), <a href="https://github.com/sebgoti">Sebastian Gonzalez Tirado</a> (Heidelberg University, Germany), <a href="https://github.com/Daniel-Waiger">Daniel Waiger</a> (Hebrew University of Jerusalem, Rehovot, Israel).
 
 <br>
 
-Learning outcomes:
+Learning outcomes:<br>
 at the end of the course, trainees will be able to describe the basic concepts of fluorescence image formation and bioimage analysis, quantify shape and fluorescence intensity of cells and organelles, measure colocalization, measure spatial relationships between classed of objects, track objects in 3D, render image data sets in 3D for animations, run basic 3D segmentation, create basic plots to show results, prepare figures for scientific publications.
 
 The course will include talks, practical sessions, and project work on trainees own data or test data sets from public image databases.
