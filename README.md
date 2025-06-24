@@ -37,15 +37,15 @@ Monday 7th July 2024
 |---| ---|
 |08:30-09:00| Introduction to the course - Domenico Russo, Simone Di Paola, Seetharaman Parashuraman|
 |09:00-09:30| Participants self introduction - All Trainers and Trainees|
-|09:30-10:30| Image formation in fluorescence microscopy- Rocco D'Antuono|
+|09:30-10:30| Image formation in fluorescence microscopy - Rocco D'Antuono|
 |10:30-11:00| Coffee break|
 |11:00-12:00| Introduction to bioimage analysis - Rocco D'Antuono|
 |12:00-13:00| Lunch |
 |13:00-14:00| Introduction to FIJI - Daniel Waiger|
 |14:00-15:00| Showcase of FIJI plugins for bioimage analysis - Ana Stojilkovic and Daniel Waiger|
 |15:00-15:30| Coffee break|
-|15:30-17:00| Project working groups with own data or test data - Ana Stojilkovic and Rocco D'Antuono|
-|17:00-17:30| Progress report on project work - How to do better? - All the trainers|
+|15:30-16:30| ilastik for interactive segmentation - Daniel Waiger|
+|16:30-17:30| Project working groups with own data or test data - Ana Stojilkovic and Rocco D'Antuono|
 |18:00| Dinner|
 |---|---|
 
@@ -80,8 +80,8 @@ Wednesday 9th July 2024
 |10:30-11:00| Coffee break|
 |11:00-12:00| CellProfiler practical session - Ana Stojiljkovic and Rocco D'Antuono|
 |12:00-13:00| Lunch |
-|13:00-14:00| CellProfiler Analyst to visualise and plot image analysis results - Ana Stojiljkovic and Sebastian Gonzalez Tirado|
-|14:00-15:00| CellProfiler Analyst hands-on session - Sebastian Gonzalez Tirado and Daniel Waiger|
+|13:00-14:00| CellProfiler Analyst to visualise and plot image analysis results - Rocco D'Antuono and Ana Stojiljkovic|
+|14:00-15:00| Build your own CellProfiler pipeline - hands-on session - Ana Stojiljkovic and Rocco D'Antuono|
 |15:00-15:30| Coffee break|
 |15:30-17:00| Project working groups with own data or test data - Rocco D'Antuono and Ana Stojilkovic|
 |17:00-18:00| Progress report on project work - How to do better? - All the trainers|
@@ -96,9 +96,9 @@ Thursday 10th July 2024
 |<b>Time</b>| <b>Topic</b>|
 |---| ---|
 |09:00-09:30| Progress check on project work and trainees expectations|
-|09:30-10:30| napari for 3D rendering and segmentation - Rocco D'Antuono |
+|09:30-10:30| napari for 3D rendering and segmentation - Rocco D'Antuono and Sebastian Gonzalez Tirado|
 |10:30-11:00| Coffee break|
-|11:00-12:00| napari for 3D segmentation - practical session - Rocco D'Antuono and Sebastian Gonzalez Tirado|
+|11:00-12:00| napari for 3D segmentation - practical session - Sebastian Gonzalez Tirado and Rocco D'Antuono|
 |12:00-13:00| Lunch |
 |13:00-14:00| Figure preparation with FIJI and Inkscape- Rocco D'Antuono|
 |14:00-15:00| Project working groups with own data or test data - Sebastian Gonzalez Tirado and Ana Stojilkovic|
