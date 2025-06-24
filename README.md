@@ -18,6 +18,7 @@ Local organizers:
 <b>Domenico Russo, Simone Di Paola, Seetharaman Parashuraman (CNR, Naples)
 </b>
 <br>
+
 |-- |-- |
 |![](./docs/GloBIAS_logo.png) | This training is developed and delivered by <a href="https://github.com/RoccoDAnt">Rocco D’Antuono</a> (The Francis Crick Institute, London, UK), <a href="https://github.com/StojiljkovicVetAna">Ana Stojiljkovic</a> (University of Bern, Switzerland), <a href="https://github.com/sebgoti">Sebastian Gonzalez Tirado</a> (Heidelberg University, Germany), <a href="https://github.com/Daniel-Waiger">Daniel Waiger</a> (Hebrew University of Jerusalem, Rehovot, Israel).|
 
