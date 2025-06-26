@@ -4,8 +4,8 @@
 
 </p>
 
-# Fluorescence image analysis course
-<b>Introductory Course on BioImage Analysis for Microscopy - GloBIAS & CNR Naples 2025</b>
+# Fluorescence image analysis workshop
+<b>Introduction to BioImage Analysis for Microscopy - GloBIAS & CNR Naples 2025</b>
 
 
 <b>7-11 July 2025 </b><br>
@@ -46,8 +46,7 @@ Monday 7th July 2024
 |15:00-15:30| Coffee break|
 |15:30-16:30| ilastik for interactive segmentation - Daniel Waiger|
 |16:30-17:30| Project working groups with own data or test data - Ana Stojilkovic and Rocco D'Antuono|
-|18:00| Dinner|
-|---|---|
+
 
 
 ### Day 2
@@ -66,8 +65,7 @@ Tuesday 8th July 2024
 |15:00-15:30| Coffee break|
 |15:30-17:00| Project working groups with own data or test data - Daniel Waiger and Sebastian Gonzalez Tirado|
 |17:00-17:30| Progress report on project work - How to do better? - All the trainers|
-|18:00| Dinner|
-|---|---|
+
 
 ### Day 3
 Wednesday 9th July 2024
@@ -85,8 +83,6 @@ Wednesday 9th July 2024
 |15:00-15:30| Coffee break|
 |15:30-17:00| Project working groups with own data or test data - Rocco D'Antuono and Ana Stojilkovic|
 |17:00-18:00| Progress report on project work - How to do better? - All the trainers|
-|18:00| Dinner|
-|---|---|
 
 
 ### Day 4
@@ -106,9 +102,19 @@ Thursday 10th July 2024
 |15:30-16:00| Project working - Conclusions - All the Trainers|
 |16:00-17:00| Trainees presentation on own project work |
 |17:00-17:30| Wrap up on the use of open-source for bioimage analysis- All the trainers|
-|18:00| Dinner|
-|---|---|
+
 
 ### Day 5
 Friday 11th July 2024
 #### Introduction to ZEISS arivis Advanced Image Analysis
+
+|<b>Time</b>| <b>Topic</b>|
+|---| ---|
+|09:00-10:30| Part 1|
+|10:30-11:00| Coffee break|
+|11:00-12:00| Part 2|
+|12:00-13:00| Lunch |
+|13:00-14:00| Part 3|
+|15:00-15:30| Coffee break|
+|15:30-17:00| Part 4|
+
