@@ -30,7 +30,7 @@ The course will include talks, practical sessions, and project work on trainees 
 
 ## Programme:
 ### Day 1
-Monday 7th July 2024
+Monday 7th July 2025
 #### Introduction & Basics of Image Analysis
 
 |<b>Time</b>| <b>Topic</b>|
@@ -50,7 +50,7 @@ Monday 7th July 2024
 
 
 ### Day 2
-Tuesday 8th July 2024
+Tuesday 8th July 2025
 #### Advanced Image Processing
 
 |<b>Time</b>| <b>Topic</b>|
@@ -68,7 +68,7 @@ Tuesday 8th July 2024
 
 
 ### Day 3
-Wednesday 9th July 2024
+Wednesday 9th July 2025
 #### Batch analysis of large data sets
 
 |<b>Time</b>| <b>Topic</b>|
@@ -86,7 +86,7 @@ Wednesday 9th July 2024
 
 
 ### Day 4
-Thursday 10th July 2024
+Thursday 10th July 2025
 #### 3D Segmentation and figure preparation
 
 |<b>Time</b>| <b>Topic</b>|
@@ -105,7 +105,7 @@ Thursday 10th July 2024
 
 
 ### Day 5
-Friday 11th July 2024
+Friday 11th July 2025
 #### Introduction to ZEISS arivis Advanced Image Analysis
 
 |<b>Time</b>| <b>Topic</b>|
@@ -114,7 +114,7 @@ Friday 11th July 2024
 |10:30-11:00| Coffee break|
 |11:00-12:00| Part 2|
 |12:00-13:00| Lunch |
-|13:00-14:00| Part 3|
+|13:00-15:00| Part 3|
 |15:00-15:30| Coffee break|
 |15:30-17:00| Part 4|
 
