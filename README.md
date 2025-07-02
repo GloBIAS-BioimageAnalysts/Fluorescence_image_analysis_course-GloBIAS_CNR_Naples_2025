@@ -126,9 +126,9 @@ Friday 11th July 2025
 
 ### Day 1
 Two software needed: FIJI and ilastik. Trainees need to
-1. Download FIJI from [www.fiji.sc](), selecting your operative system.
+1. Download FIJI from [www.fiji.sc](), selecting your operative system, and extract the .zip folder. The softwar eis ready for use.
 
-2. Download ilastik from [https://www.ilastik.org/](https://www.ilastik.org/download#stable:~:text=tracking%20with%20learning.-,Regular%20builds,-Windows%20(64%2Dbit)), selecting your operative system.
+2. Download and install ilastik from [https://www.ilastik.org/](https://www.ilastik.org/download#stable:~:text=tracking%20with%20learning.-,Regular%20builds,-Windows%20(64%2Dbit)), selecting your operative system.
 
 
 
@@ -138,26 +138,32 @@ The hands-on session will rely on the use of FIJI and ilastik (installed on Day 
 
 ### Day 3
 Two software needed: CellProfiler and CellProfiler Analyst. Trainees need to
-1. Download CellProfiler from [https://cellprofiler.org/](), selecting your operative system.
+1. Download and install CellProfiler from [https://cellprofiler.org/](), selecting your operative system.
 
-2. Download CellProfiler Analyst [https://cellprofileranalyst.org/]().
+2. Download and install CellProfiler Analyst [https://cellprofileranalyst.org/]().
 
 
 ### Day 4
+Two sofware needed: Inkscape for figure preparation and napari.
+
+1. Download and install Inkscape from [inkscape.org](https://inkscape.org/release/inkscape-1.4.2/) 
+
+2. Install napari
+
 During the hands-on sessions we will extensively try and retry the software installation with conda environments, however to gain some practice and proceed smoothly to more interesting topics, please proceed with the following homework before the workshop
 
-1. Install Anaconda Navigator
-2. Install napari within conda prompt
+#### 1. Install Anaconda Navigator
+#### 2. Install napari within conda prompt
 
 Please make sure to have at least 10-15 GB free on the pc you will bring with you for participating in the workshop. Please let us know well in advance if you cannot bring a pc with you, we might be able to get a loan, however this is not guaranteed and you might risk to have no pc to follow along.
 
-### 1. Install Anaconda Navigator
+#### 1. Install Anaconda Navigator
 This is a method that use the graphical user interface to download and install Anaconda Navigator.
 Please visit https://docs.anaconda.com/ and click on the green button "Download Anaconda". You will be asked to provide an email address and will receive the link to the download page, where you will choose the version for your OS.
 
 Before installing Anaconda Navigator, please identify a folder in your computer over which you have full permission of read and write file: we will create and update many times conda environments, this means that the software will install and remove files all the times.
 
-### 2. Install napari within conda prompt
+#### 2. Install napari within conda prompt
 The successful installation of Anaconda Navigator will make available an app called "Anaconda prompt". Thsi is the terminal that we will use to create and work with conda environments.
 
 a) Update conda, by typing the following line and pressing Enter.
@@ -189,7 +195,7 @@ At this point, if no error appears in the terminal as result of the operations a
 ```
 napari
 ```
-### Create a conda environment with a recipe
+##### Create a conda environment with a recipe
 If a working environment cannot be created through the commands above, the following recipe can be used to create an environment with napari
 
 a) Download the file [cbias2024-napari-env.yml](https://github.com/FrancisCrickInstitute/CBIAS_napari_workshop_2024/tree/main/envs/cbias2024-napari-env.yml) into a local folder
