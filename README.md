@@ -56,7 +56,8 @@ Tuesday 8th July 2025
 |<b>Time</b>| <b>Topic</b>|
 |---| ---|
 |09:00-09:30| Progress check on project work and trainees' expectations|
-|09:30-10:30| Automatisation of bioimage analysis with ImageJ macro powered by large language models- Daniel Waiger |
+|09:30-10:00| Introduction to ImageJ macro language - Ana Stojiljkovic |
+|10:00-10:30| Automatisation of bioimage analysis with ImageJ macro powered by large language models- Daniel Waiger |
 |10:30-11:00| Coffee break|
 |11:00-12:00| ImageJ macro practical session - Ana Stojiljkovic and Daniel Waiger|
 |12:00-13:00| Lunch |
