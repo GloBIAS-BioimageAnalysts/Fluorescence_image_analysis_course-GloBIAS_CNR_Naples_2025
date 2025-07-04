@@ -127,7 +127,7 @@ Friday 11th July 2025
 
 ### Day 1
 Two software needed: FIJI and ilastik. Trainees need to
-1. Download FIJI from [www.fiji.sc](www.fiji.sc), selecting your operative system, and extract the .zip folder. The software is ready for use.
+1. Download FIJI from [https://fiji.sc/](https://fiji.sc/), selecting your operative system, and extract the .zip folder. The software is ready for use.
 
 2. Download and install ilastik from [https://www.ilastik.org/](https://www.ilastik.org/download#stable:~:text=tracking%20with%20learning.-,Regular%20builds,-Windows%20(64%2Dbit)), selecting your operative system.
 
@@ -139,9 +139,9 @@ The hands-on session will rely on the use of FIJI and ilastik (installed on Day 
 
 ### Day 3
 Two software needed: CellProfiler and CellProfiler Analyst. Trainees need to
-1. Download and install CellProfiler from [https://cellprofiler.org/](https://cellprofiler.org/), selecting your operative system.
+1. Download and install CellProfiler from [http://cellprofiler.org/](http://cellprofiler.org/), selecting your operative system.
 
-2. Download and install CellProfiler Analyst [https://cellprofileranalyst.org/](https://cellprofileranalyst.org/).
+2. Download and install CellProfiler Analyst [http://cellprofileranalyst.org/](http://cellprofileranalyst.org/).
 
 
 ### Day 4
